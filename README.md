@@ -1,2 +1,2 @@
 # Mask
-a applications launcher tool
+an application launcher tool
